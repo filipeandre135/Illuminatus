@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n\ e
+comment0.target=Casa(int,\ char)
+comment1.params=
+comment1.target=int\ getNum()
+comment2.params=
+comment2.target=char\ getEstado()
+comment3.params=e
+comment3.target=void\ setEstado(char)
+comment4.params=n
+comment4.target=void\ setNum(int)
+numComments=5

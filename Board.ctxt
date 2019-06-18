@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment1.params=sizeC\ sizeL
+comment1.target=Board(int,\ int)
+comment2.params=
+comment2.target=int\ getsizeC()
+comment3.params=
+comment3.target=int\ getsizeL()
+comment4.params=i\ j
+comment4.target=Casa\ getCasa(int,\ int)
+comment5.params=i\ j\ estado\ num
+comment5.target=void\ addCasa(int,\ int,\ char,\ int)
+numComments=6
